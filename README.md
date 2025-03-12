@@ -1,4 +1,4 @@
-# dragon-quest-V-save-editor
+# dragon-quest-V-Mobile-save-editor
 -Tool to decrypt Dragon Quest V Mobile save files and calculate the correct checksum.-
 
 # - Decryption and Modification of Game Save
